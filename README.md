@@ -1,4 +1,4 @@
-# E-Commerce-Sales-Dashboard
+Akbar_Store_PowerBI_Dashboard
 📊 E-commerce Sales Dashboard – Power BI Project
 This project focuses on building an interactive Power BI dashboard to track and analyze online sales, profit, and customer trends for an e-commerce business. The dashboard enables users to explore business performance in real-time and make informed, data-driven decisions.
 
